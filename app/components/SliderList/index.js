@@ -1,0 +1,7 @@
+/**
+*
+* SliderList
+*
+*/
+
+export * from './Styles';

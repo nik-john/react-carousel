@@ -1,0 +1,7 @@
+/**
+*
+* PaginationDotWrapper
+*
+*/
+
+export * from './Styles';

@@ -1,0 +1,7 @@
+/**
+*
+* SlideWrapper
+*
+*/
+
+export * from './Styles';
