@@ -6,3 +6,7 @@
 ### Installation and running
 
 - `yarn` && `yarn start`
+
+
+### Notes
+- This project is based off of [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
